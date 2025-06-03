@@ -101,7 +101,7 @@ function App() {
               onChange={onChangeInput}
             />
             <button className="bg-blue-800 hover:bg-blue-600 text-white p-2 rounded transition duration-300" type="submit">
-              Search
+              Search the movie
             </button>
           </form>
         </div>
